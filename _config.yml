@@ -6,10 +6,8 @@ baseurl:            ""
 url:                "https://RobertDahlke.github.io"
 
 # Social Profiles
-twitter_username:   RobertDahlke
+twitter_username:   
 github_username:    RobertDahlke
-facebook_username:  RobertDahlke
-instagram_username:  
 linkedin_username:  robert-dahlke-253388211
 
 # Add your google-analytics ID here to activate google analytics
