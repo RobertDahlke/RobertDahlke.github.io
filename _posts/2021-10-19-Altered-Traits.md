@@ -3,7 +3,7 @@ layout: post
 title: "What I got from \"Altered Traits\""
 subtitle: "A personal review of \"Altered Traits\" by Daniel Goleman and Richard J. Davidson"
 date: 2021-10-19 00:00:00 -0400
-background: '/img/posts/Altered.jpg'
+background: '/img/posts/altered.jpg'
 ---
 
 # Altered Traits
