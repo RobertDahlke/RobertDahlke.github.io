@@ -14,7 +14,7 @@ Genres: Life Advice, Medical, Productivity
 
 #  The Book in 3 Sentences 
 
-1. Altered Traits gives a history of scientific research about meditation. <br>
+1. Altered Traits gives the history of scientific research about meditation, from the authors viewpoint. <br>
 <br>
 2. It methodically lists the possible and the proven effects of meditation and acknowledges the shortcomings of research especially in regards to meditation technique and experiment design. 
 <br>
@@ -23,11 +23,12 @@ Genres: Life Advice, Medical, Productivity
 
 #  Impressions
 
-The studies of meditation are young and there is still a lot unknown. The things that are known are positive, but get exaggerated by a lot of people. Meditation has a lot of health and personality benefits but is also quite a time investment.  
+The studies of meditation are young and there is still a lot unknown. The things that are known are positive, but get exaggerated by a lot of people. Meditation has a lot of health and personality benefits but is also quite a large time investment.  
 
 ## How I Discovered It
 
-I heard Andrew Huberman talk about it on his Podcast.
+I heard Andrew Huberman talk about it on his Podcast. <br>
+"Episode 37: ADHD & How Anyone Can Improve Their Focus | Huberman Lab"
 
 ## Who Should Read It?
 
@@ -42,9 +43,9 @@ Anyone interested in the scientific research into meditation and in the effects 
 
 # 📒 Summary
 
-The first few chapters of the book describe how Daniel Goleman and Richard Ja Davidson come to study meditation, and how their studies are first received with skepticism during the time of the paradigm of behavioral psychology. The book is filled with stories of how the Authors came to study the effects they studied, then proceeds with the experiment, and then with the outcome. 
+The first few chapters of the book describe how Daniel Goleman and Richard Ja Davidson come to study meditation, and how their studies are first received with skepticism during the time of the paradigm of behavioral psychology. The book is filled with stories of how the Authors came to study the effects they studied, then proceeds with the experiment, and then discusses the outcome of those experiments. 
 
-The second half of Altered Traits is focused on the scientific findings and on busting myths that are not supported by science.
+The second half of Altered Traits is focused on the scientific findings.
 
 ## Meditation Types
 <br>
