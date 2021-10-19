@@ -41,7 +41,7 @@ Anyone interested in the scientific research into meditation and in the effects 
 - I am thinking about incorporating retreats since they have been shown to alter traits more than regular practice.
 - I will explore different practices since there seems to be variance between the effects of practices.
 
-# 📒 Summary
+# Summary
 
 The first few chapters of the book describe how Daniel Goleman and Richard Ja Davidson come to study meditation, and how their studies are first received with skepticism during the time of the paradigm of behavioral psychology. The book is filled with stories of how the Authors came to study the effects they studied, then proceeds with the experiment, and then discusses the outcome of those experiments. 
 
